@@ -14,3 +14,6 @@ How to use web scraping to extract data from websites
 How to analyze data to identify trends
 How to build predictive models using machine learning algorithms
 How to apply data science to real-world business problems
+
+
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_mJPZ2LNAeLKh59ogs_1692063421513_completion_certificate.pdf 
